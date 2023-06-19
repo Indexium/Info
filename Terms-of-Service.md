@@ -59,7 +59,7 @@ We reserve the right to modify these Terms of Service at any time. Changes will 
 
 ## Privacy Policy
 
-By using IndexBot, you also agree to our Privacy Policy, which explains how we collect, use, and share your information. Please review our Privacy Policy to understand our practices. The Privacy Policy is available at [Privacy Policy](https://github.com/gananallenmckenzie/IndexBot-INFO/blob/cb4d81705b7661a9130ff62000b0753ee8c0c80f/Privacy-Policy.md)
+By using IndexBot, you also agree to our Privacy Policy, which explains how we collect, use, and share your information. Please review our Privacy Policy to understand our practices. The Privacy Policy is available at [Privacy Policy](https://github.com/Indexium/Info/blob/a185c9baaa1636f8f38a0cb99fe808303397a121/Privacy-Policy.md)
 
 ## Contact
 
