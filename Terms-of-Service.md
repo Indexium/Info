@@ -28,8 +28,6 @@ The determination of the appropriate enforcement action is at the sole discretio
 Users have the ability to collect and trade characters within Index. However, the availability of characters is subject to licensing agreements and other legal considerations. Index does not guarantee the continued availability of any specific character. If Index loses the rights to a character, that character may be removed from the platform and users' inventories without notice or compensation.
 Trading Restrictions
 
-Users are strictly prohibited from trading characters for real money (USD or any other currency) or any other consideration outside of the Index platform. Such trading is considered unauthorized and is a violation of these Terms of Service.
-
 ### Inventory Resets and Reversals
 
 Index reserves the right, in its sole discretion, to reset inventories or reverse transactions in the following cases:
